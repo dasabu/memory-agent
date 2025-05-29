@@ -1,0 +1,39 @@
+{
+  "Create a simple AI agent with memory": {
+    "name": "Create a simple AI agent with memory",
+    "steps": [
+      "Initialize memory storage (files, database, etc.)",
+      "Create functions to add facts to semantic memory",
+      "Create functions to store conversation history in episodic memory",
+      "Create functions to retrieve relevant memory based on context",
+      "Connect memory system to an LLM like GPT-4o-mini",
+      "Implement a query function that includes memory context in prompts",
+      "Add memory updating after each interaction"
+    ],
+    "description": "Steps to create a basic AI agent with memory capabilities",
+    "timestamp": "2025-05-29T20:43:06.662105",
+    "usage_count": 0
+  },
+  "making yogurt": {
+    "name": "making yogurt",
+    "steps": [
+      "laugh",
+      "fuck off",
+      "punch teacher."
+    ],
+    "description": null,
+    "timestamp": "2025-05-29T20:35:48.348815",
+    "usage_count": 0
+  },
+  "play football": {
+    "name": "play football",
+    "steps": [
+      "eat chicken",
+      "swim",
+      "watch movie"
+    ],
+    "description": null,
+    "timestamp": "2025-05-29T20:38:54.375271",
+    "usage_count": 0
+  }
+}
