@@ -8,3 +8,4 @@ mem0ai
 pyautogen
 vecs
 supabase
+streamlit
